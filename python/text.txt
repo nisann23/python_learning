@@ -1,0 +1,2 @@
+Hello, dear student! This is a test file. This file is used to test the Python word frequency counter. Hello again!
+Testing, testing, 1, 2, 3.
